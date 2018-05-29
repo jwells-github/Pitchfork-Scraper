@@ -22,6 +22,8 @@ More information about this library can be found on the website https://jsoup.or
 
 ## Using the Results
 
-Using the results from this script we are quickly able to mock up charts using a program like Tableau, an simple example of the possibilities are shown below
+Using the results from this script we are quickly able to mock up charts using a program like Tableau, a simple example of the possibilities are shown below, and is also available at the following link https://public.tableau.com/profile/jake5683#!/vizhome/PitchorkData/Dashboard2?publish=yes
 
-![alt text](https://i.imgur.com/krChZYa.png)
+![Tableau Image showing usage of Pitchfork data](https://i.imgur.com/krChZYa.png)
+
+
