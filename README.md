@@ -20,4 +20,8 @@ More information about this library can be found on the website https://jsoup.or
 
 
 
+## Using the Results
 
+Using the results from this script we are quickly able to mock up charts using a program like Tableau, an simple example of the possibilities are shown below
+
+![alt text](https://i.imgur.com/krChZYa.png)
