@@ -22,7 +22,9 @@ More information about this library can be found on the website https://jsoup.or
 
 ## Using the Results
 
-Using the results from this script we are quickly able to mock up charts using a program like Tableau, a simple example of the possibilities are shown below, and is also available at the following link https://public.tableau.com/profile/jake5683#!/vizhome/PitchorkData/Dashboard2?publish=yes
+Using the results from this script I quickly mocked up some charts using [Tableau](https://www.tableau.com/en-gb) to show the average rating across musical genres, the distribution of the 'best new music' award across genres, and also display the most reviewed artists.
+
+https://public.tableau.com/profile/jake5683#!/vizhome/PitchorkData/Dashboard2?publish=yes
 
 ![Tableau Image showing usage of Pitchfork data](https://i.imgur.com/krChZYa.png)
 
