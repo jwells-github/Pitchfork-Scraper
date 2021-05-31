@@ -12,13 +12,9 @@ This information includes
 
 ## Library used
 
-### Jsoup
+### [Jsoup](https://jsoup.org/)
 
 Jsoup allows for the parsing of webpages in java. Once a webpage is obtained its Html & CSS can be filtered to find the desired element of a given webpage. 
-
-More information about this library can be found on the website https://jsoup.org/
-
-
 
 ## Using the Results
 
