@@ -1,5 +1,5 @@
 # Pitchfork-Scraper
-A program written in Java that scrapes the music review website Pitchfork.com and outputs a text file containing information about each of their reviews
+A program written in Java that scrapes the music review information from [Pitchfork](https://pitchfork.com/) and outputs a text file containing information about each of their reviews
 
 This information includes 
 
